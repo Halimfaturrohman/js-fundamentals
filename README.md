@@ -1,10 +1,11 @@
 # JavaScript Fundamentals
 
-This repository contains basic JavaScript exercises and examples created as part of my learning journey.
+Basic JavaScript exercises for learning core concepts.
+
+## Topics
+- Variables
+- Console output
 
 ## Getting Started
-
-Run the script using Node.js:
-
 ```bash
-node hello.js
+node basics/hello.js
